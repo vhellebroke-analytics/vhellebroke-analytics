@@ -12,4 +12,4 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
 
 ## GitHub Stats
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhellebroke-analytics&show_icons=true&theme=radical)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhellebroke-analytics_icons=true&theme=radical)
