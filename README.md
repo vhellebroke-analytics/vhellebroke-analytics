@@ -1,4 +1,4 @@
-# Olá, eu sou Victor Hugo 👋
+# Olá, eu sou Victor Hugo 👋🏻
 
 🎓 Estudante de Ciência de Dados  
 💻 Python | SQL | Power BI | Análise de Dados   
