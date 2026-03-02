@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Victor Hugo 👋
 
-<!--
-**vhellebroke-analytics/vhellebroke-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados  
+💻 Python | SQL | Power BI | Análise de Dados  
+🌎 Objetivo: Trabalhar remoto e morar fora (Irlanda)  
 
-Here are some ideas to get you started:
+📫 Contato: vhellebroke@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+
+## GitHub Stats
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsouza&show_icons=true&theme=radical)
